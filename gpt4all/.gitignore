@@ -1,0 +1,5 @@
+# Ignoring the chekpoints
+.ipynb_checkpoints
+
+# Ignore the LICENSE
+LICENSE
