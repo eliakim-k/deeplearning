@@ -3,3 +3,6 @@
 
 # Ignore the LICENSE
 LICENSE
+
+# Ignoring .gitignore
+.gitignore
