@@ -1,2 +1,5 @@
 # Ignore modulescrutiny2.py
 modulescrutiny2.py
+
+# Ignore pytorchTutorial-master
+torch/pytorchTutorial-master
