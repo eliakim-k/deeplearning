@@ -1,8 +1,7 @@
-# models
-*.txt
-*.h5
-
 # data folders
+pytorch-examples-master
+pytorchTutorial-master
+data
 .ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files

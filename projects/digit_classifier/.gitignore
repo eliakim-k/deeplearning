@@ -1,9 +1,6 @@
-# models
-*.txt
-*.h5
-
 # data folders
-.ipynb_checkpoints
+data
+img
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
