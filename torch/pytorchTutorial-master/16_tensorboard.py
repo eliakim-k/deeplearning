@@ -53,8 +53,8 @@ for i in range(6):
 ############## TENSORBOARD ########################
 img_grid = torchvision.utils.make_grid(example_data)
 writer.add_image('mnist_images', img_grid)
-#writer.close()
-#sys.exit()
+writer.close()
+sys.exit()
 ###################################################
 
 # Fully connected neural network with one hidden layer
